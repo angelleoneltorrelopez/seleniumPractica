@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dc36fd1-b852-4fcb-b449-f22c1b8ed126" name="Default Changelist" comment="" />
+    <list default="true" id="1dc36fd1-b852-4fcb-b449-f22c1b8ed126" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/Linux/Firefox/geckodriver" beforeDir="false" afterPath="$PROJECT_DIR$/Drivers/Linux/Firefox/geckodriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test/buscadorGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test/buscadorGoogle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pom/BuscadorGoogle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pom/BuscadorGoogle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Test/buscadorGoogle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test/buscadorGoogle.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +33,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager" selected="TestNG.buscadorGoogle.busqueda">
@@ -84,46 +95,62 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="325" key="GridCell.Tab.0.bottom" timestamp="1582668359902">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state x="467" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583212075015">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="467" y="155" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1583212075015" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1583214299589">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1878" height="325" key="GridCell.Tab.0.bottom/0.23.1920.977/-1366.335.1366.745@0.23.1920.977" timestamp="1582668359902" />
-    <state width="1878" height="325" key="GridCell.Tab.0.center" timestamp="1582668359901">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583214299589" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center" timestamp="1583214299588">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1878" height="325" key="GridCell.Tab.0.center/0.23.1920.977/-1366.335.1366.745@0.23.1920.977" timestamp="1582668359901" />
-    <state width="1878" height="325" key="GridCell.Tab.0.left" timestamp="1582668359900">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1583214299588" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left" timestamp="1583214299588">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1878" height="325" key="GridCell.Tab.0.left/0.23.1920.977/-1366.335.1366.745@0.23.1920.977" timestamp="1582668359900" />
-    <state width="1878" height="325" key="GridCell.Tab.0.right" timestamp="1582668359902">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1583214299588" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right" timestamp="1583214299588">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1878" height="325" key="GridCell.Tab.0.right/0.23.1920.977/-1366.335.1366.745@0.23.1920.977" timestamp="1582668359902" />
-    <state width="1878" height="325" key="GridCell.Tab.1.bottom" timestamp="1582668364545">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1583214299588" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom" timestamp="1583213686473">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1878" height="325" key="GridCell.Tab.1.bottom/0.23.1920.977/-1366.335.1366.745@0.23.1920.977" timestamp="1582668364545" />
-    <state width="1878" height="325" key="GridCell.Tab.1.center" timestamp="1582668364544">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1320" height="219" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1583213686473" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center" timestamp="1583213686472">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1878" height="325" key="GridCell.Tab.1.center/0.23.1920.977/-1366.335.1366.745@0.23.1920.977" timestamp="1582668364544" />
-    <state width="1878" height="325" key="GridCell.Tab.1.left" timestamp="1582668364543">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1320" height="219" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1583213686472" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left" timestamp="1583213686472">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1878" height="325" key="GridCell.Tab.1.left/0.23.1920.977/-1366.335.1366.745@0.23.1920.977" timestamp="1582668364543" />
-    <state width="1878" height="325" key="GridCell.Tab.1.right" timestamp="1582668364545">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state width="1320" height="219" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1583213686472" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right" timestamp="1583213686473">
+      <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1878" height="325" key="GridCell.Tab.1.right/0.23.1920.977/-1366.335.1366.745@0.23.1920.977" timestamp="1582668364545" />
+    <state width="1320" height="219" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1583213686473" />
+    <state x="172" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1583212077355">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1583212077355" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Test/buscadorGoogle.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="1" />
+          <line>47</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
